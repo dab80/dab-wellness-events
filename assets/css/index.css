@@ -1,0 +1,13 @@
+.container.hero {
+  display:flex;
+  justify-content:center;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  align-content:flex-end;
+  font-weight:700;
+}
+

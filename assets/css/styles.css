@@ -1,0 +1,10 @@
+.container.hero {
+  /*display:block;*/
+  position:relative;
+  /*display:flex;*/
+  /*align-items:center;*/
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+}
+
